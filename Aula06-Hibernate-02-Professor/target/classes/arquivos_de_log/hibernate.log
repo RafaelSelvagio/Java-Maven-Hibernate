@@ -1,0 +1,397 @@
+23:43:04.771 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: professor-pu]
+23:43:04.809 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+23:43:04.880 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+23:43:04.980 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+23:43:04.982 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://127.0.0.1:3306/exemplo_banco?useSSL=FALSE&serverTimezone=UTC]
+23:43:04.983 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+23:43:04.983 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+23:43:04.985 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+23:43:05.076 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+23:43:05.270 [main] INFO  org.hibernate.tuple.PojoInstantiator - HHH000182: No default (no-argument) constructor for class: model.Professor (class must be instantiated by Interceptor)
+23:43:05.406 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@48e8c32a] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+23:43:05.440 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+23:45:09.837 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: professor-pu]
+23:45:09.871 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+23:45:09.942 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+23:45:10.045 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+23:45:10.048 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://127.0.0.1:3306/exemplo_banco?useSSL=FALSE&serverTimezone=UTC]
+23:45:10.048 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+23:45:10.048 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+23:45:10.050 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+23:45:10.139 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+23:45:10.335 [main] INFO  org.hibernate.tuple.PojoInstantiator - HHH000182: No default (no-argument) constructor for class: model.Professor (class must be instantiated by Interceptor)
+23:45:10.468 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@48e8c32a] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+23:45:10.481 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+23:45:44.409 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: professor-pu]
+23:45:44.444 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+23:45:44.516 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+23:45:44.625 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+23:45:44.629 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://127.0.0.1:3306/exemplo_banco?useSSL=FALSE&serverTimezone=UTC]
+23:45:44.629 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+23:45:44.629 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+23:45:44.631 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+23:45:44.721 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+23:45:44.921 [main] INFO  org.hibernate.tuple.PojoInstantiator - HHH000182: No default (no-argument) constructor for class: model.Professor (class must be instantiated by Interceptor)
+23:45:45.060 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@57c00115] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+23:45:45.073 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+23:46:53.416 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: professor-pu]
+23:46:53.453 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+23:46:53.525 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+23:46:53.626 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+23:46:53.630 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://127.0.0.1:3306/exemplo_banco?useSSL=FALSE&serverTimezone=UTC]
+23:46:53.630 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+23:46:53.630 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+23:46:53.632 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+23:46:53.719 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+23:46:53.914 [main] INFO  org.hibernate.tuple.PojoInstantiator - HHH000182: No default (no-argument) constructor for class: model.Professor (class must be instantiated by Interceptor)
+23:46:54.049 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@57c00115] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+23:46:54.062 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+23:47:07.920 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: professor-pu]
+23:47:07.954 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+23:47:08.026 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+23:47:08.129 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+23:47:08.134 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://127.0.0.1:3306/exemplo_banco?useSSL=FALSE&serverTimezone=UTC]
+23:47:08.134 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+23:47:08.134 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+23:47:08.136 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+23:47:08.226 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+23:47:08.426 [main] INFO  org.hibernate.tuple.PojoInstantiator - HHH000182: No default (no-argument) constructor for class: model.Professor (class must be instantiated by Interceptor)
+23:47:08.557 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@48e8c32a] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+23:47:08.570 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+23:47:56.916 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: professor-pu]
+23:47:56.951 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+23:47:57.018 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+23:47:57.123 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+23:47:57.126 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://127.0.0.1:3306/exemplo_banco?useSSL=FALSE&serverTimezone=UTC]
+23:47:57.126 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+23:47:57.126 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+23:47:57.128 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+23:47:57.220 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+23:47:57.410 [main] INFO  org.hibernate.tuple.PojoInstantiator - HHH000182: No default (no-argument) constructor for class: model.Professor (class must be instantiated by Interceptor)
+23:47:57.542 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@57c00115] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+23:47:57.558 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+23:48:20.587 [main] ERROR util.LoggerUtil - Erro ao listar pais: 
+javax.persistence.PersistenceException: org.hibernate.InstantiationException: No default constructor for entity:  : model.Professor
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:154) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1539) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.Query.getResultList(Query.java:165) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at dao.ProfessorDAO.listarProfessores(ProfessorDAO.java:58) [classes/:?]
+	at controller.ProfessorController.listarProfessores(ProfessorController.java:33) [classes/:?]
+	at main.Main.main(Main.java:48) [classes/:?]
+Caused by: org.hibernate.InstantiationException: No default constructor for entity:  : model.Professor
+	at org.hibernate.tuple.PojoInstantiator.instantiate(PojoInstantiator.java:85) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.tuple.PojoInstantiator.instantiate(PojoInstantiator.java:105) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.tuple.entity.AbstractEntityTuplizer.instantiate(AbstractEntityTuplizer.java:685) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.persister.entity.AbstractEntityPersister.instantiate(AbstractEntityPersister.java:5134) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.internal.SessionImpl.instantiate(SessionImpl.java:1588) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.internal.SessionImpl.instantiate(SessionImpl.java:1572) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.instanceNotYetLoaded(Loader.java:1758) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.getRow(Loader.java:1615) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.getRowFromResultSet(Loader.java:745) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.processResultSet(Loader.java:1008) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doQuery(Loader.java:964) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:354) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doList(Loader.java:2838) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doList(Loader.java:2820) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2652) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.list(Loader.java:2647) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:396) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1404) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1562) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1530) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	... 4 more
+23:51:29.766 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: professor-pu]
+23:51:29.800 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+23:51:29.873 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+23:51:29.979 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+23:51:29.983 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://127.0.0.1:3306/exemplo_banco?useSSL=FALSE&serverTimezone=UTC]
+23:51:29.983 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+23:51:29.983 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+23:51:29.984 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+23:51:30.075 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+23:51:30.273 [main] INFO  org.hibernate.tuple.PojoInstantiator - HHH000182: No default (no-argument) constructor for class: model.Professor (class must be instantiated by Interceptor)
+23:51:30.405 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@48e8c32a] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+23:51:30.430 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+23:54:29.408 [main] ERROR util.LoggerUtil - Erro ao buscar professor: 
+javax.persistence.NoResultException: No entity found for query
+	at org.hibernate.query.internal.AbstractProducedQuery.getSingleResult(AbstractProducedQuery.java:1580) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at dao.ProfessorDAO.buscarProfessorPorNome(ProfessorDAO.java:48) [classes/:?]
+	at controller.ProfessorController.buscaProfessorPorNome(ProfessorController.java:29) [classes/:?]
+	at main.Main.main(Main.java:56) [classes/:?]
+23:57:35.072 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: professor-pu]
+23:57:35.108 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+23:57:35.178 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+23:57:35.282 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+23:57:35.286 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://127.0.0.1:3306/exemplo_banco?useSSL=FALSE&serverTimezone=UTC]
+23:57:35.286 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+23:57:35.286 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+23:57:35.287 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+23:57:35.375 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+23:57:35.581 [main] INFO  org.hibernate.tuple.PojoInstantiator - HHH000182: No default (no-argument) constructor for class: model.Professor (class must be instantiated by Interceptor)
+23:57:35.716 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@48e8c32a] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+23:57:35.729 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+23:57:38.908 [main] ERROR util.LoggerUtil - Erro ao listar pais: 
+javax.persistence.PersistenceException: org.hibernate.InstantiationException: No default constructor for entity:  : model.Professor
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:154) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1539) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.Query.getResultList(Query.java:165) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at dao.ProfessorDAO.listarProfessores(ProfessorDAO.java:58) [classes/:?]
+	at controller.ProfessorController.listarProfessores(ProfessorController.java:33) [classes/:?]
+	at main.Main.main(Main.java:49) [classes/:?]
+Caused by: org.hibernate.InstantiationException: No default constructor for entity:  : model.Professor
+	at org.hibernate.tuple.PojoInstantiator.instantiate(PojoInstantiator.java:85) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.tuple.PojoInstantiator.instantiate(PojoInstantiator.java:105) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.tuple.entity.AbstractEntityTuplizer.instantiate(AbstractEntityTuplizer.java:685) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.persister.entity.AbstractEntityPersister.instantiate(AbstractEntityPersister.java:5134) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.internal.SessionImpl.instantiate(SessionImpl.java:1588) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.internal.SessionImpl.instantiate(SessionImpl.java:1572) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.instanceNotYetLoaded(Loader.java:1758) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.getRow(Loader.java:1615) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.getRowFromResultSet(Loader.java:745) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.processResultSet(Loader.java:1008) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doQuery(Loader.java:964) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:354) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doList(Loader.java:2838) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doList(Loader.java:2820) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2652) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.list(Loader.java:2647) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:396) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1404) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1562) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1530) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	... 4 more
+23:58:43.938 [main] ERROR util.LoggerUtil - Erro ao listar pais: 
+javax.persistence.PersistenceException: org.hibernate.InstantiationException: No default constructor for entity:  : model.Professor
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:154) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1539) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.Query.getResultList(Query.java:165) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at dao.ProfessorDAO.listarProfessores(ProfessorDAO.java:58) [classes/:?]
+	at controller.ProfessorController.listarProfessores(ProfessorController.java:33) [classes/:?]
+	at main.Main.main(Main.java:49) [classes/:?]
+Caused by: org.hibernate.InstantiationException: No default constructor for entity:  : model.Professor
+	at org.hibernate.tuple.PojoInstantiator.instantiate(PojoInstantiator.java:85) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.tuple.PojoInstantiator.instantiate(PojoInstantiator.java:105) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.tuple.entity.AbstractEntityTuplizer.instantiate(AbstractEntityTuplizer.java:685) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.persister.entity.AbstractEntityPersister.instantiate(AbstractEntityPersister.java:5134) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.internal.SessionImpl.instantiate(SessionImpl.java:1588) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.internal.SessionImpl.instantiate(SessionImpl.java:1572) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.instanceNotYetLoaded(Loader.java:1758) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.getRow(Loader.java:1615) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.getRowFromResultSet(Loader.java:745) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.processResultSet(Loader.java:1008) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doQuery(Loader.java:964) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:354) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doList(Loader.java:2838) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doList(Loader.java:2820) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2652) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.list(Loader.java:2647) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:396) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1404) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1562) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1530) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	... 4 more
+23:59:41.257 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: professor-pu]
+23:59:41.292 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+23:59:41.359 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+23:59:41.458 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+23:59:41.461 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://127.0.0.1:3306/exemplo_banco?useSSL=FALSE&serverTimezone=UTC]
+23:59:41.461 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+23:59:41.461 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+23:59:41.464 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+23:59:41.552 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+23:59:41.749 [main] INFO  org.hibernate.tuple.PojoInstantiator - HHH000182: No default (no-argument) constructor for class: model.Professor (class must be instantiated by Interceptor)
+23:59:41.884 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@48e8c32a] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+23:59:41.898 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+23:59:43.914 [main] ERROR util.LoggerUtil - Erro ao listar pais: 
+javax.persistence.PersistenceException: org.hibernate.InstantiationException: No default constructor for entity:  : model.Professor
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:154) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1539) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.Query.getResultList(Query.java:165) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at dao.ProfessorDAO.listarProfessores(ProfessorDAO.java:58) [classes/:?]
+	at controller.ProfessorController.listarProfessores(ProfessorController.java:33) [classes/:?]
+	at main.Main.main(Main.java:49) [classes/:?]
+Caused by: org.hibernate.InstantiationException: No default constructor for entity:  : model.Professor
+	at org.hibernate.tuple.PojoInstantiator.instantiate(PojoInstantiator.java:85) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.tuple.PojoInstantiator.instantiate(PojoInstantiator.java:105) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.tuple.entity.AbstractEntityTuplizer.instantiate(AbstractEntityTuplizer.java:685) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.persister.entity.AbstractEntityPersister.instantiate(AbstractEntityPersister.java:5134) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.internal.SessionImpl.instantiate(SessionImpl.java:1588) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.internal.SessionImpl.instantiate(SessionImpl.java:1572) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.instanceNotYetLoaded(Loader.java:1758) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.getRow(Loader.java:1615) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.getRowFromResultSet(Loader.java:745) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.processResultSet(Loader.java:1008) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doQuery(Loader.java:964) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:354) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doList(Loader.java:2838) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doList(Loader.java:2820) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2652) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.list(Loader.java:2647) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:396) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1404) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1562) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1530) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	... 4 more
+00:02:43.213 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: professor-pu]
+00:02:43.250 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+00:02:43.319 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+00:02:43.419 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+00:02:43.423 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://127.0.0.1:3306/exemplo_banco?useSSL=FALSE&serverTimezone=UTC]
+00:02:43.423 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+00:02:43.423 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+00:02:43.424 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+00:02:43.512 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+00:02:43.705 [main] INFO  org.hibernate.tuple.PojoInstantiator - HHH000182: No default (no-argument) constructor for class: model.Professor (class must be instantiated by Interceptor)
+00:02:43.839 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@48e8c32a] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+00:02:43.851 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+00:02:51.925 [main] ERROR util.LoggerUtil - Erro ao listar pais: 
+javax.persistence.PersistenceException: org.hibernate.InstantiationException: No default constructor for entity:  : model.Professor
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:154) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1539) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.Query.getResultList(Query.java:165) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at dao.ProfessorDAO.listarProfessores(ProfessorDAO.java:58) [classes/:?]
+	at controller.ProfessorController.listarProfessores(ProfessorController.java:33) [classes/:?]
+	at main.Main.main(Main.java:49) [classes/:?]
+Caused by: org.hibernate.InstantiationException: No default constructor for entity:  : model.Professor
+	at org.hibernate.tuple.PojoInstantiator.instantiate(PojoInstantiator.java:85) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.tuple.PojoInstantiator.instantiate(PojoInstantiator.java:105) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.tuple.entity.AbstractEntityTuplizer.instantiate(AbstractEntityTuplizer.java:685) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.persister.entity.AbstractEntityPersister.instantiate(AbstractEntityPersister.java:5134) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.internal.SessionImpl.instantiate(SessionImpl.java:1588) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.internal.SessionImpl.instantiate(SessionImpl.java:1572) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.instanceNotYetLoaded(Loader.java:1758) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.getRow(Loader.java:1615) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.getRowFromResultSet(Loader.java:745) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.processResultSet(Loader.java:1008) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doQuery(Loader.java:964) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:354) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doList(Loader.java:2838) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doList(Loader.java:2820) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2652) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.list(Loader.java:2647) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:396) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1404) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1562) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1530) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	... 4 more
+00:04:59.936 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: professor-pu]
+00:04:59.971 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+00:05:00.043 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+00:05:00.146 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+00:05:00.149 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://127.0.0.1:3306/exemplo_banco?useSSL=FALSE&serverTimezone=UTC]
+00:05:00.149 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+00:05:00.149 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+00:05:00.151 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+00:05:00.239 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+00:05:00.439 [main] INFO  org.hibernate.tuple.PojoInstantiator - HHH000182: No default (no-argument) constructor for class: model.Professor (class must be instantiated by Interceptor)
+00:05:00.575 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@57c00115] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+00:05:00.587 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+00:05:06.843 [main] ERROR util.LoggerUtil - Erro ao listar pais: 
+javax.persistence.PersistenceException: org.hibernate.InstantiationException: No default constructor for entity:  : model.Professor
+	at org.hibernate.internal.ExceptionConverterImpl.convert(ExceptionConverterImpl.java:154) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1539) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.Query.getResultList(Query.java:165) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at dao.ProfessorDAO.listarProfessores(ProfessorDAO.java:58) [classes/:?]
+	at controller.ProfessorController.listarProfessores(ProfessorController.java:33) [classes/:?]
+	at main.Main.main(Main.java:49) [classes/:?]
+Caused by: org.hibernate.InstantiationException: No default constructor for entity:  : model.Professor
+	at org.hibernate.tuple.PojoInstantiator.instantiate(PojoInstantiator.java:85) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.tuple.PojoInstantiator.instantiate(PojoInstantiator.java:105) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.tuple.entity.AbstractEntityTuplizer.instantiate(AbstractEntityTuplizer.java:685) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.persister.entity.AbstractEntityPersister.instantiate(AbstractEntityPersister.java:5134) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.internal.SessionImpl.instantiate(SessionImpl.java:1588) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.internal.SessionImpl.instantiate(SessionImpl.java:1572) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.instanceNotYetLoaded(Loader.java:1758) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.getRow(Loader.java:1615) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.getRowFromResultSet(Loader.java:745) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.processResultSet(Loader.java:1008) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doQuery(Loader.java:964) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doQueryAndInitializeNonLazyCollections(Loader.java:354) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doList(Loader.java:2838) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.doList(Loader.java:2820) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.listIgnoreQueryCache(Loader.java:2652) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.Loader.list(Loader.java:2647) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.loader.hql.QueryLoader.list(QueryLoader.java:506) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.list(QueryTranslatorImpl.java:396) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.engine.query.spi.HQLQueryPlan.performList(HQLQueryPlan.java:219) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.internal.SessionImpl.list(SessionImpl.java:1404) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.doList(AbstractProducedQuery.java:1562) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at org.hibernate.query.internal.AbstractProducedQuery.list(AbstractProducedQuery.java:1530) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	... 4 more
+00:06:47.297 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: professor-pu]
+00:06:47.332 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+00:06:47.401 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+00:06:47.504 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+00:06:47.508 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://127.0.0.1:3306/exemplo_banco?useSSL=FALSE&serverTimezone=UTC]
+00:06:47.508 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+00:06:47.508 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+00:06:47.509 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+00:06:47.598 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+00:06:47.927 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7c51782d] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+00:06:47.943 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+00:10:40.084 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: professor-pu]
+00:10:40.121 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+00:10:40.194 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+00:10:40.299 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+00:10:40.301 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://127.0.0.1:3306/exemplo_banco?useSSL=FALSE&serverTimezone=UTC]
+00:10:40.302 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+00:10:40.302 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+00:10:40.304 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+00:10:40.395 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+00:10:40.734 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7c51782d] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+00:10:40.747 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+00:10:51.432 [main] ERROR util.LoggerUtil - Erro ao buscar professor: 
+javax.persistence.NoResultException: No entity found for query
+	at org.hibernate.query.internal.AbstractProducedQuery.getSingleResult(AbstractProducedQuery.java:1580) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at dao.ProfessorDAO.buscarProfessorPorNome(ProfessorDAO.java:48) [classes/:?]
+	at controller.ProfessorController.buscaProfessorPorNome(ProfessorController.java:29) [classes/:?]
+	at main.Main.main(Main.java:57) [classes/:?]
+00:11:07.259 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: professor-pu]
+00:11:07.294 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+00:11:07.362 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+00:11:07.466 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+00:11:07.469 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://127.0.0.1:3306/exemplo_banco?useSSL=FALSE&serverTimezone=UTC]
+00:11:07.469 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+00:11:07.469 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+00:11:07.471 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+00:11:07.557 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+00:11:07.885 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7c51782d] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+00:11:07.897 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+00:11:14.651 [main] ERROR util.LoggerUtil - Erro ao buscar professor: 
+javax.persistence.NoResultException: No entity found for query
+	at org.hibernate.query.internal.AbstractProducedQuery.getSingleResult(AbstractProducedQuery.java:1580) ~[hibernate-core-5.4.12.Final.jar:5.4.12.Final]
+	at dao.ProfessorDAO.buscarProfessorPorNome(ProfessorDAO.java:48) [classes/:?]
+	at controller.ProfessorController.buscaProfessorPorNome(ProfessorController.java:29) [classes/:?]
+	at main.Main.main(Main.java:57) [classes/:?]
+00:11:33.421 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: professor-pu]
+00:11:33.457 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+00:11:33.528 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+00:11:33.628 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+00:11:33.630 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://127.0.0.1:3306/exemplo_banco?useSSL=FALSE&serverTimezone=UTC]
+00:11:33.631 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+00:11:33.631 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+00:11:33.634 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+00:11:33.726 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+00:11:34.058 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7c51782d] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+00:11:34.070 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+00:11:48.493 [main] INFO  org.hibernate.jpa.internal.util.LogHelper - HHH000204: Processing PersistenceUnitInfo [name: professor-pu]
+00:11:48.528 [main] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.12.Final
+00:11:48.599 [main] INFO  org.hibernate.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+00:11:48.699 [main] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+00:11:48.702 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://127.0.0.1:3306/exemplo_banco?useSSL=FALSE&serverTimezone=UTC]
+00:11:48.702 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=****, user=root}
+00:11:48.702 [main] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+00:11:48.704 [main] INFO  org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+00:11:48.791 [main] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+00:11:49.115 [main] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7c51782d] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+00:11:49.127 [main] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]

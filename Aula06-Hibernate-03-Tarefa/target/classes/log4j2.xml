@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="warn" name="ListaDePaises" packages="">
+    <Appenders>
+        <File name="HibernateLog" fileName="src/main/resources/arquivos_de_log/hibernate.log">
+            <PatternLayout>
+                <pattern>%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n</pattern>
+            </PatternLayout>
+        </File>
+    </Appenders>
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="HibernateLog"/>
+        </Root>
+    </Loggers>
+</Configuration>
